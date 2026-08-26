@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "date": "26/08/2026",
+    "description": "Iuran kas mingguan",
+    "type": "income",
+    "amount": 50000
+  },
+  {
+    "id": 2,
+    "date": "25/08/2026",
+    "description": "Membeli spidol kelas",
+    "type": "expense",
+    "amount": 18000
+  }
+]

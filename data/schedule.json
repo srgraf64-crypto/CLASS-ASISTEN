@@ -1,0 +1,290 @@
+[
+  {
+    "day": "Senin",
+    "period": "I",
+    "time": "07:15–07:55",
+    "subject": "PJOK",
+    "teacherCode": "HM",
+    "teacher": "Hendro P. Mokoginta, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "II",
+    "time": "07:55–08:35",
+    "subject": "PJOK",
+    "teacherCode": "HM",
+    "teacher": "Hendro P. Mokoginta, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "III",
+    "time": "08:35–09:15",
+    "subject": "IPA",
+    "teacherCode": "CM",
+    "teacher": "Cindy Makasambi, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "IV",
+    "time": "09:15–09:55",
+    "subject": "IPA",
+    "teacherCode": "CM",
+    "teacher": "Cindy Makasambi, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "V",
+    "time": "10:35–11:15",
+    "subject": "IPA",
+    "teacherCode": "CM",
+    "teacher": "Cindy Makasambi, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "VI",
+    "time": "11:15–11:55",
+    "subject": "AGAMA",
+    "teacherCode": "AP/TT",
+    "teacher": "Abdul Rifan Potabuga, S.Pd.I / Tirsa N. Tamunu, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "VII",
+    "time": "11:55–12:35",
+    "subject": "AGAMA",
+    "teacherCode": "AP/TT",
+    "teacher": "Abdul Rifan Potabuga, S.Pd.I / Tirsa N. Tamunu, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "VIII",
+    "time": "12:35–13:15",
+    "subject": "BHS. INDONESIA",
+    "teacherCode": "KS",
+    "teacher": "Khofifa I. Sugeha, S.Pd"
+  },
+  {
+    "day": "Senin",
+    "period": "IX",
+    "time": "13:15–13:55",
+    "subject": "BHS. INDONESIA",
+    "teacherCode": "KS",
+    "teacher": "Khofifa I. Sugeha, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "I",
+    "time": "07:15–07:55",
+    "subject": "IPA",
+    "teacherCode": "CM",
+    "teacher": "Cindy Makasambi, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "II",
+    "time": "07:55–08:35",
+    "subject": "IPA",
+    "teacherCode": "CM",
+    "teacher": "Cindy Makasambi, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "III",
+    "time": "08:35–09:15",
+    "subject": "MATEMATIKA",
+    "teacherCode": "AH",
+    "teacher": "Achmad J. Hamang, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "IV",
+    "time": "09:15–09:55",
+    "subject": "MATEMATIKA",
+    "teacherCode": "AH",
+    "teacher": "Achmad J. Hamang, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "V",
+    "time": "10:35–11:15",
+    "subject": "BHS. INDONESIA",
+    "teacherCode": "KS",
+    "teacher": "Khofifa I. Sugeha, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "VI",
+    "time": "11:15–11:55",
+    "subject": "BHS. INDONESIA",
+    "teacherCode": "KS",
+    "teacher": "Khofifa I. Sugeha, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "VII",
+    "time": "11:55–12:35",
+    "subject": "BHS. INDONESIA",
+    "teacherCode": "KS",
+    "teacher": "Khofifa I. Sugeha, S.Pd"
+  },
+  {
+    "day": "Selasa",
+    "period": "VIII",
+    "time": "12:35–13:15",
+    "subject": "INFORMATIKA",
+    "teacherCode": "NA",
+    "teacher": "Novita Anggai, S.Kom"
+  },
+  {
+    "day": "Selasa",
+    "period": "IX",
+    "time": "13:15–13:55",
+    "subject": "INFORMATIKA",
+    "teacherCode": "NA",
+    "teacher": "Novita Anggai, S.Kom"
+  },
+  {
+    "day": "Rabu",
+    "period": "I",
+    "time": "07:15–07:55",
+    "subject": "PRAKARYA",
+    "teacherCode": "RM",
+    "teacher": "Ranita Manangin, SE"
+  },
+  {
+    "day": "Rabu",
+    "period": "II",
+    "time": "07:55–08:35",
+    "subject": "PRAKARYA",
+    "teacherCode": "RM",
+    "teacher": "Ranita Manangin, SE"
+  },
+  {
+    "day": "Rabu",
+    "period": "III",
+    "time": "08:35–09:15",
+    "subject": "KKA",
+    "teacherCode": "SM",
+    "teacher": "Suasti Mokodompit, S.Pd"
+  },
+  {
+    "day": "Rabu",
+    "period": "IV",
+    "time": "09:15–09:55",
+    "subject": "KKA",
+    "teacherCode": "SM",
+    "teacher": "Suasti Mokodompit, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "I",
+    "time": "07:15–07:55",
+    "subject": "IPS",
+    "teacherCode": "HA",
+    "teacher": "Heldawati Anggona, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "II",
+    "time": "07:55–08:35",
+    "subject": "IPS",
+    "teacherCode": "HA",
+    "teacher": "Heldawati Anggona, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "III",
+    "time": "08:35–09:15",
+    "subject": "IPS",
+    "teacherCode": "HA",
+    "teacher": "Heldawati Anggona, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "IV",
+    "time": "09:15–09:55",
+    "subject": "PKN",
+    "teacherCode": "SD",
+    "teacher": "Shitraningsi Dondo, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "V",
+    "time": "10:35–11:15",
+    "subject": "PKN",
+    "teacherCode": "SD",
+    "teacher": "Shitraningsi Dondo, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "VI",
+    "time": "11:15–11:55",
+    "subject": "KOKURIKULER",
+    "teacherCode": "SM",
+    "teacher": "Suasti Mokodompit, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "VII",
+    "time": "11:55–12:35",
+    "subject": "KOKURIKULER",
+    "teacherCode": "SM",
+    "teacher": "Suasti Mokodompit, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "VIII",
+    "time": "12:35–13:15",
+    "subject": "KOKURIKULER",
+    "teacherCode": "SD",
+    "teacher": "Shitraningsi Dondo, S.Pd"
+  },
+  {
+    "day": "Kamis",
+    "period": "IX",
+    "time": "13:15–13:55",
+    "subject": "KOKURIKULER",
+    "teacherCode": "SD",
+    "teacher": "Shitraningsi Dondo, S.Pd"
+  },
+  {
+    "day": "Jumat",
+    "period": "I",
+    "time": "07:15–07:55",
+    "subject": "KOKURIKULER",
+    "teacherCode": "HM",
+    "teacher": "Hendro P. Mokoginta, S.Pd"
+  },
+  {
+    "day": "Jumat",
+    "period": "II",
+    "time": "07:55–08:35",
+    "subject": "KOKURIKULER",
+    "teacherCode": "HM",
+    "teacher": "Hendro P. Mokoginta, S.Pd"
+  },
+  {
+    "day": "Jumat",
+    "period": "III",
+    "time": "08:35–09:15",
+    "subject": "KOKURIKULER",
+    "teacherCode": "HM",
+    "teacher": "Hendro P. Mokoginta, S.Pd"
+  },
+  {
+    "day": "Jumat",
+    "period": "IV",
+    "time": "09:45–10:25",
+    "subject": "KOKURIKULER",
+    "teacherCode": "SD",
+    "teacher": "Shitraningsi Dondo, S.Pd"
+  },
+  {
+    "day": "Jumat",
+    "period": "V",
+    "time": "10:25–11:05",
+    "subject": "KOKURIKULER",
+    "teacherCode": "SD",
+    "teacher": "Shitraningsi Dondo, S.Pd"
+  }
+]
