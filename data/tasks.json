@@ -1,16 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "Rangkuman Bab 3",
-    "subject": "IPA",
-    "due": "28 Agustus 2026",
-    "done": false
-  },
-  {
-    "id": 2,
-    "name": "Latihan soal Matematika",
-    "subject": "Matematika",
-    "due": "29 Agustus 2026",
-    "done": false
-  }
-]
+[]
